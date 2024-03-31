@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial';
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    font-family:'Lucida Sans';
+    font-size: 35px;
+    background-color: #4c3cde;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    max-width: 55%;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+h2 {
+    font-size: 24px;
+    background-color: #696969;
+    padding: 3px;
+}
+
+ul {
+    list-style: none;
+    padding: 10;
+}
+
+ul li {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.price {
+    float: right;
+}
